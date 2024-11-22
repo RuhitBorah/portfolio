@@ -1,0 +1,16 @@
+*{
+    /* background-color: rgb(20, 115, 198); */
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    background: transparent;
+    box-sizing: border-box;
+    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); */
+
+}
+
+body {
+    background-color:aquamarine;
+    overflow: hidden;
+    overflow: scroll;
+}
