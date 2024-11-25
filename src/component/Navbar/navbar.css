@@ -5,14 +5,15 @@ nav {
     left: 0;
     width: 100%;     /* Make it span the entire width */
     z-index: 1000;   /* Ensure it stays above other elements */
-    background-color: #ffffff; /* Background color */
+    background-color: #9de0ff; /* Background color */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
   }
   
   /* Logo styles */
   .logo {
-    height: 50px;
-    weight: 67px; /* Adjust height */
+    object-fit: cover;
+    height: 3rem;
+    weight: 4rem; /* Adjust height */
   }
   
   /* Navbar menu styles */

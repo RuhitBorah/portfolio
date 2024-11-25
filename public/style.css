@@ -1,7 +1,7 @@
 *{
     /* background-color: rgb(20, 115, 198); */
-    padding: 0px;
-    margin: 0px;
+    /* padding: 0px;
+    margin: 0px; */
     text-decoration: none;
     background: transparent;
     box-sizing: border-box;
@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color:aquamarine;
-    overflow: hidden;
-    overflow: scroll;
+    background-color:transparent;
+    /* overflow: hidden;
+    overflow: scroll; */
 }
